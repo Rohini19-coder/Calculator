@@ -28,5 +28,3 @@ Performs basic arithmetic operations with a clean, user-friendly interface.
 - **JavaScript (ES6)** – Functionality
 
 ---
-
-## 📂 Project Structure
